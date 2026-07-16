@@ -1,0 +1,3 @@
+Character: Arjun  
+Health: 100  
+Weapon: Khukuri  

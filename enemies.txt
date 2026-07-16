@@ -1,3 +1,4 @@
 Enemy: Yeti  
 Health: 200  
 Weakness: Fire  
+

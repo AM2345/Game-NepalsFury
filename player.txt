@@ -1,3 +1,4 @@
 Character: Arjun  
 Health: 100  
 Weapon: Khukuri  
+status:online

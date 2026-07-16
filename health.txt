@@ -1,0 +1,2 @@
+new player Health = 100
+per damage Health = -10

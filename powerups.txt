@@ -1,0 +1,3 @@
+Power-up: Double Damage
+Power-up: Shield
+Power-up: Speed Boost
